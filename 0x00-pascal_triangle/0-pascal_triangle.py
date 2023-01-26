@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 
-from typing import List
-
 def pascal_triangle(n:int)->List[List[int]]:
     """
     A function that generates Pascal's triangle of n
